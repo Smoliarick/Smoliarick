@@ -15,3 +15,4 @@ My profiles:
 My package for Cypress autotests:
 
 - [cypress-testrail-integration](https://www.npmjs.com/package/cypress-testrail-integration) - helps you generate reports in Test Rail using Cypress Run results
+- [cypress-discord-webhook-integration](https://www.npmjs.com/package/cypress-discord-webhook-integration) - helps to send your Cypress reports to Discord channel

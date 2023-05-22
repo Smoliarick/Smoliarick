@@ -10,8 +10,6 @@ My profiles:
 
 <br><br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=smoliarick)
-
 My packages for Cypress autotests:
 
 - [cypress-testrail-integration](https://www.npmjs.com/package/cypress-testrail-integration) - helps you generate reports in Test Rail using Cypress Run results
